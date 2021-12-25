@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3><br>Hi there! ✋😃🤚<br>peace be upon you 😇<br>I’m Omi, competitive programmer and undergraduate student of CSE and who loves to solve programming problems and participate online/offline programming competitions.<br><br>
+If you want to reach out to me, then just email me at akib200045@diit.edu.bd.</h3>
+</body>
+</html>
